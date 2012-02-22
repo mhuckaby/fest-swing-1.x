@@ -10,6 +10,11 @@
   <description>Fluent interface for functional GUI testing</description>
   <inceptionYear>2007</inceptionYear>
   <url>http://fest.easytesting.org/swing</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+  </properties>
+
   <parent>
     <groupId>org.easytesting</groupId>
     <artifactId>fest</artifactId>
